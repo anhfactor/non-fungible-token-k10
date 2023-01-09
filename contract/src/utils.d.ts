@@ -1,0 +1,1 @@
+export declare function serialize(valueToSerialize: unknown): Uint8Array;
